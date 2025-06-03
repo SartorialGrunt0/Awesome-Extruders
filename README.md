@@ -43,7 +43,7 @@ These gear kits are avaialable from a wide variety of vendors and with many clon
 ### HGX-lite Extruders
 <img src="hgx-lite.jpg" width="400" height="400">
 
-[HGX-lite gears](https://www.aliexpress.us/item/3256804512828973.html?gatewayAdapt=glo2usa4itemAdapt) are a set of large extruder gears from the HGX-lite extruder believed to be created by Haldis 3D. They sell the gears stand alone as a gear set. These are essentially a clone of the LGX-lite gears however its uncertain how similar exactly they are. They come in two variants, HGX-Lite a HGX-lite 2.0.  Most extruders using these gears are using the original version. The 2.0 variant is slightly lighter and can be identified by its extra holes in the gears.
+[HGX-lite gears](https://www.aliexpress.us/item/3256804512828973.html?gatewayAdapt=glo2usa4itemAdapt) are a set of large extruder gears from the HGX-lite extruder believed to be created by Haldis 3D. They sell the gears stand alone as a gear set. These are essentially a clone of the LGX-lite gears. They come in two variants, HGX-Lite a HGX-lite 2.0.  Most extruders using these gears are using the original version. The 2.0 variant is slightly lighter and can be identified by the extra holes in the drive gears.
 
 - [Hummingbird](https://github.com/nhchiu/VoronMods/tree/main/Extruders/Hummingbird)
 - [Large Gear Clockwork2](https://github.com/nhchiu/VoronMods/tree/main/Extruders/Large_Gear_Clockwork2)
@@ -56,7 +56,7 @@ These gear kits are avaialable from a wide variety of vendors and with many clon
 ### Galileo 2 Extruders
 <img src="galileo2.png" width="555" height="277">
 
-[Galileo 2 gears](https://github.com/JaredC01/Galileo2) are a set of gears designed by LDO and sold by a number of partners. They are a set of large drive gears in a planetart gear train. 
+[Galileo 2 gears](https://github.com/JaredC01/Galileo2) are a set of gears designed by LDO and sold by a number of partners. They are a set of large drive gears in a planetary drive train. 
 
 - [Galileo 2](https://github.com/JaredC01/Galileo2/tree/main/galileo2_extruder)
 - [Galileo 2 Standalone](https://github.com/JaredC01/Galileo2/tree/main/galileo2_standalone)
