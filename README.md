@@ -8,7 +8,7 @@ This is a list of publicaly available extruder designs which can be built using 
 
 ## Table of contents
 - [BMG Gear Extruders](#bmg-gear-extruders)
-- [HGX-lite-Extruders](#hgx-lite-extruders)
+- [HGX-lite Extruders](#hgx-lite-extruders)
 - [Galileo 2 Extruders](#galileo-2-extruders)
 ### BMG Gear Extruders
 <img src="bmg.png" width="495" height="330">
