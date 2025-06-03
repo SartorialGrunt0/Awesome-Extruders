@@ -12,8 +12,6 @@ This is a list of free pubically available extruder designs which can be built u
 - [Galileo 2](#galileo2)
 ### BMG Gear Extruders
 
-**[`^        back to top        ^`](#awesome-extruders)**
-
 [BMG Gears](https://www.bondtech.se/product-category/extruders/bmg-series/?srsltid=AfmBOoqG_gRRpSIDdcMdXtBJIBlN_L-gR9r2ktUPrTVjUjdEChwsAM0k) are part of a kit 
 from the popular BMG extruder created by Bondtech. They are available either as a standard kit, where the extruder and drive gear are two seperate pieces, and 
 IDGA (Integrated Drive Gear assembly) where the extruder and drive gear a single piece. If your extruder supports it, opt for the IDGA variant for better layer stacking.
