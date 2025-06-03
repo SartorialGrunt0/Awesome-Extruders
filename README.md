@@ -11,6 +11,7 @@ This is a list of publicaly available extruder designs which can be built using 
 - [HGX-lite-Extruders](#hgx-lite-extruders)
 - [Galileo 2 Extruders](#galileo-2-extruders)
 ### BMG Gear Extruders
+<img src="bmg.png" width="495" height="330">
 
 [BMG gears](https://www.bondtech.se/product-category/extruders/bmg-series/?srsltid=AfmBOoqG_gRRpSIDdcMdXtBJIBlN_L-gR9r2ktUPrTVjUjdEChwsAM0k) are part of a kit 
 from the popular BMG extruder created by Bondtech. They are available either as a standard kit, where the extruder and drive gear are two seperate pieces, and 
@@ -40,6 +41,7 @@ These gear kits are avaialable from a wide variety of vendors and with many clon
 --------------------
 
 ### HGX-lite Extruders
+<img src="hgx-lite.jpg" width="400" height="400">
 
 [HGX-lite gears](https://www.aliexpress.us/item/3256804512828973.html?gatewayAdapt=glo2usa4itemAdapt) are a set of large extruder gears from the HGX-lite extruder believed to be created by Haldis 3D. They sell the gears stand alone as a gear set. These are essentially a clone of the LGX-lite gears however its uncertain how similar exactly they are. They come in two variants, HGX-Lite a HGX-lite 2.0.  Most extruders using these gears are using the original version. The 2.0 variant is slightly lighter and can be identified by its extra holes in the gears.
 
@@ -52,6 +54,8 @@ These gear kits are avaialable from a wide variety of vendors and with many clon
 --------------------
 
 ### Galileo 2 Extruders
+<img src="galileo2.png" width="555" height="277">
+
 [Galileo 2 gears](https://github.com/JaredC01/Galileo2) are a set of gears designed by LDO and sold by a number of partners. They are a set of large drive gears in a planetart gear train. 
 
 - [Galileo 2](https://github.com/JaredC01/Galileo2/tree/main/galileo2_extruder)
