@@ -35,7 +35,7 @@ These gear kits are available from a wide variety of vendors. Be aware that many
 - [Sailfin](https://github.com/CroXY3D/Sailfin-Extruder) - Direct drive standalone extruder. 
 - [Sharkfin](https://github.com/KayosMaker/Sharkfin_Extruder) - Direct drive standalone extruder, variant of Sailfin, IDGA supported.
 - [HextruORT](https://github.com/MirageC79/HextrudORT) - Direct drive standalone extruder for the HevORT toolhead.
-- [Vorxtrudort](https://github.com/nhchiu/VoronMods/tree/main/Extruders/Vorxtrudort) - Direct drive standalone extruder, variant of HextrudORT with standard mounting for Voron.
+- [Vorxtrudort](https://github.com/nhchiu/VoronMods/tree/main/Extruders/Vorxtrudort) - Direct drive standalone extruder, variant of HextrudORT with mounting for Voron.
 - [BoomBox](https://www.printables.com/model/1236812-boombox-the-best-bowden-extruder-on-earth) - Bowden extruder, features dual-gears and dual-motors.
 
 --------------------
@@ -47,7 +47,7 @@ These gear kits are available from a wide variety of vendors. Be aware that many
 
 - [Hummingbird](https://github.com/nhchiu/VoronMods/tree/main/Extruders/Hummingbird) - Direct drive standalone extruder, features LGX-lite mounting.
 - [Large Gear Clockwork2](https://github.com/nhchiu/VoronMods/tree/main/Extruders/Large_Gear_Clockwork2) - Direct drive extruder for the Voron Stealthburner toolhead.
-- [ProtoXtruder](https://github.com/nhchiu/VoronMods/tree/main/Extruders/ProtoXtruder) - Direct drive standalone extruder.
+- [ProtoXtruder](https://github.com/nhchiu/VoronMods/tree/main/Extruders/ProtoXtruder) - Direct drive standalone extruder, features Sherpa Mini mounting.
 - [ProtoXtruder 2.0](https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0) - Direct drive standalone extruder, variant of ProtoXtruder for HGX-lite 2.0 gears.
 - [Papilo/Papilo Lite](https://github.com/kevinakasam/Papilio-Belt-Extruder) - Direct drive standalone extruder, features using belts rather than gears to push filament. 
 
