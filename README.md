@@ -10,6 +10,7 @@ This is a list of publicaly available extruder designs which can be built using 
 - [BMG Extruders](#bmg-extruders)
 - [HGX-lite Extruders](#hgx-lite-extruders)
 - [Galileo 2 Extruders](#galileo-2-extruders)
+- [Other Extruders)(#other-extruders)
 - [Legacy Extruders](#legacy-extruders)
 ### BMG Extruders
 <img src="bmg.png" width="495" height="330">
