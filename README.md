@@ -2,12 +2,12 @@
 
 A 3D printer extruder is a filament feeding mechanism used in many fused deposition modeling (FDM) 3D printers. 
 
-This is a list of publicaly available extruder designs which can be built using a combination of 3d printed parts and a purchasable gear kit.
+This is a list of publicaly available extruder designs which can be built using a combination of 3d printed parts and a purchasable gear kit. Sections are broken up by gear type.
 
 --------------------
 
 ## Table of contents
-- [BMG Gear Extruders](#bmg-extruders)
+- [BMG Extruders](#bmg-extruders)
 - [HGX-lite Extruders](#hgx-lite-extruders)
 - [Galileo 2 Extruders](#galileo-2-extruders)
 - [Legacy Extruders](#legacy-extruders)
@@ -66,12 +66,14 @@ These gear kits are available from a wide variety of vendors. Be aware that many
 - [Wristwatch G2](https://github.com/tetsu97/WristWatch-G2-Extruder) - Direct drive standalone extruder.
 - [Escapement](https://github.com/Armchair-Heavy-Industries/Escapement) - Direct drive standalone extruder.
 
+--------------------
+
 ### Other Extruders
 
 These extruders uses a set of gears that is still readily available but are less common.
 
--[RoundAbout](https://github.com/chirpy2605/voron/tree/main/general/RoundAbout) - Direct drive standalone extruder, features a planetary gearbox.
--[RoundTrip](https://github.com/chirpy2605/voron/tree/main/general/RoundTrip) - Direct drive standalone extruder, features support for multiple gear set types.
+- [RoundAbout](https://github.com/chirpy2605/voron/tree/main/general/RoundAbout) - Direct drive standalone extruder, features a planetary gearbox.
+- [RoundTrip](https://github.com/chirpy2605/voron/tree/main/general/RoundTrip) - Direct drive standalone extruder, features support for multiple gear set types.
 
 --------------------
 
