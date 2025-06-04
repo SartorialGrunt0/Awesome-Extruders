@@ -14,9 +14,9 @@ This is a list of publicaly available extruder designs which can be built using 
 <img src="bmg.png" width="495" height="330">
 
 [BMG gears](https://www.bondtech.se/product-category/extruders/bmg-series/?srsltid=AfmBOoqG_gRRpSIDdcMdXtBJIBlN_L-gR9r2ktUPrTVjUjdEChwsAM0k) are part of a kit 
-from the popular BMG extruder created by Bondtech. They are available either as a standard kit, where the extruder and drive gear are two seperate pieces, and 
-IDGA (Integrated Drive Gear assembly) where the extruder and drive gear a single piece. If your extruder supports it, opt for the IDGA variant for better layer stacking.
-These gear kits are avaialable from a wide variety of vendors and with many clone variants with a wide variety of quality control.
+from the popular BMG extruder created by Bondtech. They are available either as a standard kit, where the extruder and drive gear are two seperate pieces, or 
+as IDGA (Integrated Drive Gear Assembly), where the extruder and drive gear are a single piece. If your extruder supports it, opt for the IDGA variant for better layer stacking.
+These gear kits are avaialable from a wide variety of vendors. Be aware that many vendors sell clones that have a wide variety of quality control.
 
 - [Clockwork1](https://github.com/VoronDesign/Voron-Afterburner/releases)
 - [Clockwork2](https://github.com/VoronDesign/Voron-Stealthburner)
@@ -43,7 +43,7 @@ These gear kits are avaialable from a wide variety of vendors and with many clon
 ### HGX-lite Extruders
 <img src="hgx-lite.jpg" width="400" height="400">
 
-[HGX-lite gears](https://www.aliexpress.us/item/3256804512828973.html?gatewayAdapt=glo2usa4itemAdapt) are a set of large extruder gears from the HGX-lite extruder believed to be created by Haldis 3D. They sell the gears stand alone as a gear set. These are essentially a clone of the LGX-lite gears. They come in two variants, HGX-Lite a HGX-lite 2.0.  Most extruders using these gears are using the original version. The 2.0 variant is slightly lighter and can be identified by the extra holes in the drive gears.
+[HGX-lite gears](https://www.aliexpress.us/item/3256804512828973.html?gatewayAdapt=glo2usa4itemAdapt) are a set of large extruder gears from the HGX-lite extruder believed to be created by Haldis 3D. They also sell the gears standalone as a gear set. These are essentially a clone of the LGX-lite gears. They come in two variants, HGX-Lite and HGX-lite 2.0.  Most extruders featuring these gears are using the original 1.0 version. The 2.0 variant is slightly lighter and can be identified by the extra holes in the drive gears.
 
 - [Hummingbird](https://github.com/nhchiu/VoronMods/tree/main/Extruders/Hummingbird)
 - [Large Gear Clockwork2](https://github.com/nhchiu/VoronMods/tree/main/Extruders/Large_Gear_Clockwork2)
