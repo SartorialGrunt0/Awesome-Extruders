@@ -70,7 +70,7 @@ These gear kits are available from a wide variety of vendors. Be aware that many
 
 Legacy extruders use gear designs that are no longer readily available for purchase or have been superseded by a newer, well adopted design.
 
-- [Orbiter 1(1.5)]( https://www.orbiterprojects.com/orbiter-1-5/) - Standalone direct drive extruder, features a planetary gearbox.
+- [Orbiter 1(1.5)]( https://www.orbiterprojects.com/orbiter-1-5/) - Direct drive standalone extruder, features a planetary gearbox.
 - [Galileo 1](https://github.com/JaredC01/Galileo) - Direct drive extruder for the Voron Afterburner toolhead.
 - [Stargazer](https://www.printables.com/model/245121-stargazer-v1) - Direct drive standalone extruder, features planetary gearbox. 
 - [Double Folded Ascender](https://github.com/Annex-Engineering/Folded_Ascender-Extruder) - Direct drive standalone extruder, features a worm gear design.
