@@ -76,6 +76,8 @@ Legacy extruders use gear designs that are no longer readily available for purch
 - [Double Folded Ascender](https://github.com/Annex-Engineering/Folded_Ascender-Extruder) - Direct drive standalone extruder, features a worm gear design.
 - [NF-Cannon](https://github.com/Mellow-3D/NF-Cannon) - Direct drive standalone extruder, features a worm gear design.
 
+--------------------
+
 Did I miss something? Open an issue and I'll consider adding it to the list.
 
 
