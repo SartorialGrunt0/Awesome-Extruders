@@ -7,11 +7,11 @@ This is a list of publicaly available extruder designs which can be built using 
 --------------------
 
 ## Table of contents
-- [BMG Gear Extruders](#bmg-gear-extruders)
+- [BMG Gear Extruders](#bmg-extruders)
 - [HGX-lite Extruders](#hgx-lite-extruders)
 - [Galileo 2 Extruders](#galileo-2-extruders)
 - [Legacy Extruders](#legacy-extruders)
-### BMG Gear Extruders
+### BMG Extruders
 <img src="bmg.png" width="495" height="330">
 
 [BMG gears](https://www.bondtech.se/product-category/extruders/bmg-series/?srsltid=AfmBOoqG_gRRpSIDdcMdXtBJIBlN_L-gR9r2ktUPrTVjUjdEChwsAM0k) are part of a kit 
@@ -38,6 +38,7 @@ These gear kits are available from a wide variety of vendors. Be aware that many
 - [HextruORT](https://github.com/MirageC79/HextrudORT) - Direct drive standalone extruder for the HevORT toolhead.
 - [Vorxtrudort](https://github.com/nhchiu/VoronMods/tree/main/Extruders/Vorxtrudort) - Direct drive standalone extruder, variant of HextrudORT with mounting for Voron.
 - [BoomBox](https://www.printables.com/model/1236812-boombox-the-best-bowden-extruder-on-earth) - Bowden extruder, features dual-gears and dual-motors.
+- [RoundHouseBMG](https://github.com/chirpy2605/voron/tree/main/general/RoundHouse) - Direct drive standalone extruder.
 
 --------------------
 
@@ -50,7 +51,8 @@ These gear kits are available from a wide variety of vendors. Be aware that many
 - [Large Gear Clockwork2](https://github.com/nhchiu/VoronMods/tree/main/Extruders/Large_Gear_Clockwork2) - Direct drive extruder for the Voron Stealthburner toolhead.
 - [ProtoXtruder](https://github.com/nhchiu/VoronMods/tree/main/Extruders/ProtoXtruder) - Direct drive standalone extruder, features Sherpa Mini mounting.
 - [ProtoXtruder 2.0](https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0) - Direct drive standalone extruder, variant of ProtoXtruder for HGX-lite 2.0 gears.
-- [Papilo/Papilo Lite](https://github.com/kevinakasam/Papilio-Belt-Extruder) - Direct drive standalone extruder, features using belts rather than gears to push filament. 
+- [Papilo/Papilo Lite](https://github.com/kevinakasam/Papilio-Belt-Extruder) - Direct drive standalone extruder, features using belts rather than gears to push filament.
+- [Tsunami](https://www.printables.com/model/1175316-beta-tsunami-extruder) - Direct drive standalone extruder, features dual drive gears.
 
 --------------------
 
@@ -64,6 +66,13 @@ These gear kits are available from a wide variety of vendors. Be aware that many
 - [Wristwatch G2](https://github.com/tetsu97/WristWatch-G2-Extruder) - Direct drive standalone extruder.
 - [Escapement](https://github.com/Armchair-Heavy-Industries/Escapement) - Direct drive standalone extruder.
 
+### Other Extruders
+
+These extruders uses a set of gears that is still readily available but are less common.
+
+-[RoundAbout](https://github.com/chirpy2605/voron/tree/main/general/RoundAbout) - Direct drive standalone extruder, features a planetary gearbox.
+-[RoundTrip](https://github.com/chirpy2605/voron/tree/main/general/RoundTrip) - Direct drive standalone extruder, features support for multiple gear set types.
+
 --------------------
 
 ### Legacy Extruders
@@ -71,10 +80,11 @@ These gear kits are available from a wide variety of vendors. Be aware that many
 Legacy extruders use gear designs that are no longer readily available for purchase or have been superseded by a newer, well adopted design.
 
 - [Orbiter 1(1.5)]( https://www.orbiterprojects.com/orbiter-1-5/) - Direct drive standalone extruder, features a planetary gearbox.
-- [Galileo 1](https://github.com/JaredC01/Galileo) - Direct drive extruder for the Voron Afterburner toolhead.
+- [Galileo 1](https://github.com/JaredC01/Galileo) - Direct drive extruder for the Voron Afterburner toolhead, features a planeraty gearbox.
 - [Stargazer](https://www.printables.com/model/245121-stargazer-v1) - Direct drive standalone extruder, features planetary gearbox. 
 - [Double Folded Ascender](https://github.com/Annex-Engineering/Folded_Ascender-Extruder) - Direct drive standalone extruder, features a worm gear design.
 - [NF-Cannon](https://github.com/Mellow-3D/NF-Cannon) - Direct drive standalone extruder, features a worm gear design.
+- [Titania](https://www.printables.com/model/729823-titania-extruder-with-e3d-titan-gears-made-in-sher) - Direct drive standalone extruder, variant of Sherpa Mini, features E3D titan gears.
 
 --------------------
 
