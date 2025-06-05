@@ -17,7 +17,7 @@ This is a list of publicaly available extruder designs which can be built using 
 
 [BMG gears](https://www.bondtech.se/product-category/extruders/bmg-series/?srsltid=AfmBOoqG_gRRpSIDdcMdXtBJIBlN_L-gR9r2ktUPrTVjUjdEChwsAM0k) are part of a kit 
 from the popular BMG extruder created by Bondtech. They are available either as a standard kit, where the extruder and drive gear are two seperate pieces, or 
-as IDGA (Integrated Drive Gear Assembly), where the extruder and drive gear are a single piece. Opt for the IDGA, variant if the extruder supports it, for better layer stacking. 
+as IDGA (Integrated Drive Gear Assembly), where the extruder and drive gear are a single piece. Opt for the IDGA variant, if the extruder supports it, for better layer stacking. 
 These gear kits are available from a wide variety of vendors. Be aware that many vendors sell clones that have a wide variety of quality control.
 
 - [Clockwork1](https://github.com/VoronDesign/Voron-Afterburner/releases) - Direct drive extruder for the Voron Afterburner toolhead.
