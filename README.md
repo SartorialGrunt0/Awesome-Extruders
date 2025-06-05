@@ -4,6 +4,8 @@ A 3D printer extruder is a filament feeding mechanism used in many fused deposit
 
 This is a list of publicaly available extruder designs which can be built using a combination of 3d printed parts and a purchasable gear kit. Sections are broken up by gear type.
 
+Looking for a toolhead to go with your extruder of choice? Check out [Awesome-Toolheads](https://github.com/SartorialGrunt0/Awesome-Toolheads/tree/main).
+
 --------------------
 
 ## Table of contents
