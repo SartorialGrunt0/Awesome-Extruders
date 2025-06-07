@@ -27,7 +27,9 @@ These gear kits are available from a wide variety of vendors. Be aware that many
 - [Pocket Watch](https://github.com/VoronDesign/Voron-0/tree/Voron0.0/VORON_Pocketwatch) - Bowden extruder for Voron V0.
 - [Pocket Watch Nema17](https://mods.vorondesign.com/details/1rw8IyTJO2hoMYllya1IgQ) - Bowden extruder modeled from Clockwork1.
 - [Night Watch](https://github.com/VoronDesign/Pocket-Watch/tree/main) - Bowden extruder designed from Clockwork2 for Voron V0.2.
+- [Dual Nightwatch](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Extruders/Dual_Nightwatch) - Bowden extruder, variant of Night Watch, features dual extruder design.
 - [M4 Mobius](https://github.com/VoronDesign/Mobius-Extruder) - Bowden belt driven extruder.
+- [Mini14](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Extruders/Mini14) - Bowden belt driven extruder, variant of M4, features smaller size and nema14 motor.
 - [Wristwatch BMG](https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_Extruder_BMG) - Direct drive standalone extruder, variant of Wristwatch G2, IDGA supported.
 - [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) - Direct drive standalone extruder, IDGA supported.
 - [Sherpa Micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) - Direct drive standalone extruder, smaller and lighter Sherpa Mini, IDGA supported.
