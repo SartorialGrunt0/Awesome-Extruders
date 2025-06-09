@@ -41,8 +41,9 @@ These gear kits are available from a wide variety of vendors. Be aware that many
 - [Sailfin](https://github.com/CroXY3D/Sailfin-Extruder) - Direct drive standalone extruder. 
 - [Sharkfin](https://github.com/KayosMaker/Sharkfin_Extruder) - Direct drive standalone extruder, variant of Sailfin, IDGA supported.
 - [Sharketype](https://github.com/Armchair-Heavy-Industries/Sharketype) - Direct drive standalone extruder for Archetype toolhead, variant of Sharkfin, IDGA supported.
-- [HextruORT](https://github.com/MirageC79/HextrudORT) - Direct drive standalone extruder for the HevORT toolhead.
+- [HextrudORT](https://github.com/MirageC79/HextrudORT) - Direct drive standalone extruder for the HevORT toolhead.
 - [Vorxtrudort](https://github.com/nhchiu/VoronMods/tree/main/Extruders/Vorxtrudort) - Direct drive standalone extruder, variant of HextrudORT with mounting for Voron.
+- [Vz HextrudORT](https://github.com/VzBoT3D/Vz-HextrudORT) - Direct drive standalone extruder, variant if HextrudORT for VzBot.
 - [BoomBox](https://www.printables.com/model/1236812-boombox-the-best-bowden-extruder-on-earth) - Bowden extruder, features dual-gears and dual-motors.
 - [RoundHouseBMG](https://github.com/chirpy2605/voron/tree/main/general/RoundHouse) - Direct drive standalone extruder.
 
