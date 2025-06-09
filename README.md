@@ -37,6 +37,7 @@ These gear kits are available from a wide variety of vendors. Be aware that many
 - [Sherpa Extra Heavy](https://www.printables.com/model/549890-sherpa-extra-heavy-with-nema17-update-2) - Direct drive standalone extruder, variant of Sherpa Heavy using a standard nema17, IDGA supported.
 - [Sherpa Crew Mini](https://github.com/jrlomas/Sherpa-Crew-Mini) - Direct drive standalone extruder, variant of Sherpa Mini, features two sets of BMG gears. 
 - [Sherpa Zero](https://github.com/jrlomas/Sherpa-Zero) - Direct drive standalone extruder, variant of Sherpa Mini, IDGA supported.
+- [Fz](https://github.com/FZaii/FZ-Extruder) - Direct drive standalone extruder, variant of Sherpa Mini.
 - [Miro](https://github.com/jrlomas/miro-extruder) - Direct drive standalone extruder, features dual-drive gears.
 - [Sailfin](https://github.com/CroXY3D/Sailfin-Extruder) - Direct drive standalone extruder. 
 - [Sharkfin](https://github.com/KayosMaker/Sharkfin_Extruder) - Direct drive standalone extruder, variant of Sailfin, IDGA supported.
