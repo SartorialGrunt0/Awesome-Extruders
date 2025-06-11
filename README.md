@@ -59,7 +59,7 @@ These gear kits are available from a wide variety of vendors. Be aware that many
 - [Large Gear Clockwork2](https://github.com/nhchiu/VoronMods/tree/main/Extruders/Large_Gear_Clockwork2) - Direct drive extruder for the Voron Stealthburner toolhead.
 - [ProtoXtruder](https://github.com/nhchiu/VoronMods/tree/main/Extruders/ProtoXtruder) - Direct drive standalone extruder, features Sherpa Mini mounting.
 - [ProtoXtruder 2.0](https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0) - Direct drive standalone extruder, variant of ProtoXtruder for HGX-lite 2.0 gears.
-- [Papilo/Papilo Lite](https://github.com/kevinakasam/Papilio-Belt-Extruder) - Direct drive standalone extruder, features using belts rather than gears to push filament.
+- [Papilio/Papilio Lite](https://github.com/kevinakasam/Papilio-Belt-Extruder) - Direct drive standalone extruder, features using belts rather than gears to push filament.
 - [Tsunami](https://www.printables.com/model/1175316-beta-tsunami-extruder) - Direct drive standalone extruder, features dual drive gears.
 
 --------------------
