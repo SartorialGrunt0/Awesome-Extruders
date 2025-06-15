@@ -30,7 +30,7 @@ These gear kits are available from a wide variety of vendors. Be aware that many
 - [Dual Nightwatch](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Extruders/Dual_Nightwatch) - Bowden extruder, variant of Night Watch, features dual extruder design.
 - [M4 Mobius](https://github.com/VoronDesign/Mobius-Extruder) - Bowden belt driven extruder.
 - [Mini14](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Extruders/Mini14) - Bowden belt driven extruder, variant of M4, features smaller size and nema14 motor.
-- [Wristwatch BMG](https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_Extruder_BMG) - Direct drive standalone extruder, variant of Wristwatch G2, IDGA supported.
+- [Wristwatch BMG](https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_Extruder_BMG) - Direct drive standalone extruder, variant of Wristwatch G2, RIDGA supported.
 - [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) - Direct drive standalone extruder, RIDGA supported.
 - [Sherpa Micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) - Direct drive standalone extruder, smaller and lighter Sherpa Mini, RIDGA supported.
 - [Sherpa Heavy](https://github.com/Annex-Engineering/Sherpa_Heavy-Extruder) - Direct drive standalone extruder, variant of Sherpa Mini, uses a nema17 with pinion gear, RIDGA supported.
