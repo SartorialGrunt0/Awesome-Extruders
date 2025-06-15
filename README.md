@@ -18,8 +18,8 @@ Looking for a toolhead to go with your extruder of choice? Check out [Awesome-To
 <img src="bmg.png" width="495" height="330">
 
 [BMG gears](https://www.bondtech.se/product-category/extruders/bmg-series/?srsltid=AfmBOoqG_gRRpSIDdcMdXtBJIBlN_L-gR9r2ktUPrTVjUjdEChwsAM0k) are part of a kit 
-from the popular BMG extruder created by Bondtech. They are available either as a standard kit, where the extruder and drive gear are two seperate pieces, or 
-as IDGA (Integrated Drive Gear Assembly), where the extruder and drive gear are a single piece. Opt for the IDGA variant, if the extruder supports it, for better layer stacking. 
+from the popular BMG extruder created by Bondtech. They are available either as a standard kit, where the extruder and drive gear are two seperate pieces, IDGA (Integrated Drive Gear Assembly), where the extruder and drive gear are a single piece, or RIDGA (Reverse IDGA). 
+Opt for RIDGA/IDGA, if the extruder supports it, for better layer stacking. 
 These gear kits are available from a wide variety of vendors. Be aware that many vendors sell clones that have a wide variety of quality control.
 
 - [Clockwork1](https://github.com/VoronDesign/Voron-Afterburner/releases) - Direct drive extruder for the Voron Afterburner toolhead.
@@ -31,17 +31,17 @@ These gear kits are available from a wide variety of vendors. Be aware that many
 - [M4 Mobius](https://github.com/VoronDesign/Mobius-Extruder) - Bowden belt driven extruder.
 - [Mini14](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Extruders/Mini14) - Bowden belt driven extruder, variant of M4, features smaller size and nema14 motor.
 - [Wristwatch BMG](https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_Extruder_BMG) - Direct drive standalone extruder, variant of Wristwatch G2, IDGA supported.
-- [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) - Direct drive standalone extruder, IDGA supported.
-- [Sherpa Micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) - Direct drive standalone extruder, smaller and lighter Sherpa Mini, IDGA supported.
-- [Sherpa Heavy](https://github.com/Annex-Engineering/Sherpa_Heavy-Extruder) - Direct drive standalone extruder, variant of Sherpa Mini, uses a nema17 with pinion gear, IDGA supported.
-- [Sherpa Extra Heavy](https://www.printables.com/model/549890-sherpa-extra-heavy-with-nema17-update-2) - Direct drive standalone extruder, variant of Sherpa Heavy using a standard nema17, IDGA supported.
+- [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) - Direct drive standalone extruder, RIDGA supported.
+- [Sherpa Micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) - Direct drive standalone extruder, smaller and lighter Sherpa Mini, RIDGA supported.
+- [Sherpa Heavy](https://github.com/Annex-Engineering/Sherpa_Heavy-Extruder) - Direct drive standalone extruder, variant of Sherpa Mini, uses a nema17 with pinion gear, RIDGA supported.
+- [Sherpa Extra Heavy](https://www.printables.com/model/549890-sherpa-extra-heavy-with-nema17-update-2) - Direct drive standalone extruder, variant of Sherpa Heavy using a standard nema17, RIDGA supported.
 - [Sherpa Crew Mini](https://github.com/jrlomas/Sherpa-Crew-Mini) - Direct drive standalone extruder, variant of Sherpa Mini, features two sets of BMG gears. 
-- [Sherpa Zero](https://github.com/jrlomas/Sherpa-Zero) - Direct drive standalone extruder, variant of Sherpa Mini, IDGA supported.
+- [Sherpa Zero](https://github.com/jrlomas/Sherpa-Zero) - Direct drive standalone extruder, variant of Sherpa Mini, RIDGA supported.
 - [Fz](https://github.com/FZaii/FZ-Extruder) - Direct drive standalone extruder, variant of Sherpa Mini.
 - [Miro](https://github.com/jrlomas/miro-extruder) - Direct drive standalone extruder, features dual-drive gears.
 - [Sailfin](https://github.com/CroXY3D/Sailfin-Extruder) - Direct drive standalone extruder. 
-- [Sharkfin](https://github.com/KayosMaker/Sharkfin_Extruder) - Direct drive standalone extruder, variant of Sailfin, IDGA supported.
-- [Sharketype](https://github.com/Armchair-Heavy-Industries/Sharketype) - Direct drive standalone extruder for Archetype toolhead, variant of Sharkfin, IDGA supported.
+- [Sharkfin](https://github.com/KayosMaker/Sharkfin_Extruder) - Direct drive standalone extruder, variant of Sailfin, RIDGA supported.
+- [Sharketype](https://github.com/Armchair-Heavy-Industries/Sharketype) - Direct drive standalone extruder for Archetype toolhead, variant of Sharkfin, RIDGA supported.
 - [HextrudORT](https://github.com/MirageC79/HextrudORT) - Direct drive standalone extruder for the HevORT toolhead.
 - [Vorxtrudort](https://github.com/nhchiu/VoronMods/tree/main/Extruders/Vorxtrudort) - Direct drive standalone extruder, variant of HextrudORT with mounting for Voron.
 - [Vz HextrudORT](https://github.com/VzBoT3D/Vz-HextrudORT) - Direct drive standalone extruder, variant if HextrudORT for VzBot.
@@ -78,7 +78,7 @@ These gear kits are available from a wide variety of vendors. Be aware that many
 
 ### Other Extruders
 
-These extruders uses a set of gears that is still readily available but are less common.
+These extruders use a set of gears that are still readily available but are less common.
 
 - [RoundAbout](https://github.com/chirpy2605/voron/tree/main/general/RoundAbout) - Direct drive standalone extruder, features a planetary gearbox.
 - [RoundTrip](https://github.com/chirpy2605/voron/tree/main/general/RoundTrip) - Direct drive standalone extruder, features support for multiple gear set types.
