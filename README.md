@@ -20,7 +20,7 @@ Looking for a toolhead to go with your extruder of choice? Check out [Awesome-To
 [BMG gears](https://www.bondtech.se/product-category/extruders/bmg-series/?srsltid=AfmBOoqG_gRRpSIDdcMdXtBJIBlN_L-gR9r2ktUPrTVjUjdEChwsAM0k) are part of a kit 
 from the popular BMG extruder created by Bondtech. They are available either as a standard kit, where the extruder and drive gear are two seperate pieces, IDGA (Integrated Drive Gear Assembly), where the extruder and drive gear are a single piece, or RIDGA (Reverse IDGA). 
 Opt for RIDGA/IDGA, if the extruder supports it, for better layer stacking. 
-These gear kits are available from a wide variety of vendors. Be aware that many vendors sell clones that have a wide variety of quality control.
+These gear kits are available from a variety of vendors. Be aware that many vendors sell clones that have varying quality control.
 
 - [Clockwork1](https://github.com/VoronDesign/Voron-Afterburner/releases) - Direct drive extruder for the Voron Afterburner toolhead.
 - [Clockwork2](https://github.com/VoronDesign/Voron-Stealthburner) - Direct drive extruder for the Voron Stealthburner toolhead, IDGA supported.
