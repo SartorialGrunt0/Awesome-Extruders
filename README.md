@@ -94,7 +94,7 @@ Legacy extruders use gear designs that are no longer readily available for purch
 - [Stargazer](https://www.printables.com/model/245121-stargazer-v1) - Direct drive standalone extruder, features planetary gearbox. 
 - [Double Folded Ascender](https://github.com/Annex-Engineering/Folded_Ascender-Extruder) - Direct drive standalone extruder, features a worm gear design.
 - [NF-Cannon](https://github.com/Mellow-3D/NF-Cannon) - Direct drive standalone extruder, features a worm gear design.
-- [Badass Lightweight Wormdrive Extruder](https://github.com/Shaunuss/Lowboi-Mk4) - Direct drive standalone extruder, festures a worm gear design.
+- [Lowboi Mk4](https://github.com/Shaunuss/Lowboi-Mk4) - Direct drive standalone extruder, festures a worm gear design.
 - [Titania](https://www.printables.com/model/729823-titania-extruder-with-e3d-titan-gears-made-in-sher) - Direct drive standalone extruder, variant of Sherpa Mini, features E3D titan gears.
 - [Cyclops](https://github.com/D3vil-Design/Cyclops-Extruder) - Direct drive extruder for the Creality K1 toolhead, superceded by [DXC extruder](https://www.phaetus.com/en-us/products/dxc-extruder).
 
