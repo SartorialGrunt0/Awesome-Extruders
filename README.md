@@ -73,7 +73,7 @@ These gear kits are available from a variety of vendors. Be aware that many vend
 - [Galileo 2 Standalone](https://github.com/JaredC01/Galileo2/tree/main/galileo2_standalone) - Direct drive standalone extruder.
 - [Wristwatch G2](https://github.com/tetsu97/WristWatch-G2-Extruder) - Direct drive standalone extruder.
 - [Escapement](https://github.com/Armchair-Heavy-Industries/Escapement) - Direct drive standalone extruder.
-- [Micro-cosm][https://github.com/Okanoa/micro-cosm) - Direct drive standalone extruder.
+- [Micro-cosm](https://github.com/Okanoa/micro-cosm) - Direct drive standalone extruder.
 
 --------------------
 
