@@ -19,7 +19,7 @@ Looking for a toolhead to go with your extruder of choice? Check out [Awesome-To
 --------------------
 ### Community Picks
 - The Popularity Contest: [Wristwatch](https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_Extruder_BMG) has taken the community by storm, quickly becoming the most popular standalone extuder. There areremixes for BMG, G2, RIDGA, and IDGA gears, its easy to build, and supports filament cutters and filament sensors for multicolor.
-- The Clasic: [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) has been around linger than most of the extruders on the list and for good reason. Its lightweight and to print and assemble. This design inspired nearly every BMG based extruder on the list and has more remixes than any other design to date. She might be showing her sge but its still a solid design.
+- The Classic: [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) has been around linger than most of the extruders on the list and for good reason. Its lightweight and to print and assemble. This design inspired nearly every BMG based extruder on the list and has more remixes than any other design to date. She might be showing her sge but its still a solid design.
 - The Bargain Mart: - [ProtoXtruder](https://github.com/nhchiu/VoronMods/tree/main/Extruders/ProtoXtruder), designed by nhchiu, is part of a family of extuders using the HGX-lite gears. These large gears can be found for $8-15 and include every non-printed part needed. Between the low price, the large gears improving layer consistency, and the extruder using the same mounting pattern as Sherpa-Mini, its a awesome budget extruder.
 
 
