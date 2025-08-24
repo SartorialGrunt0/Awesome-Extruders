@@ -9,12 +9,13 @@ Looking for a toolhead to go with your extruder of choice? Check out [Awesome-To
 --------------------
 
 ## Table of contents
+
+- [Community Picks](#community-picks)
 - [BMG Extruders](#bmg-extruders)
 - [HGX-lite Extruders](#hgx-lite-extruders)
 - [Galileo 2 Extruders](#galileo-2-extruders)
 - [Other Extruders](#other-extruders)
 - [Legacy Extruders](#legacy-extruders)
-- [Community Picks](#community-pick)
 
 --------------------
 ### Community Picks
