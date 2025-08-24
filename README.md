@@ -19,7 +19,7 @@ Looking for a toolhead to go with your extruder of choice? Check out [Awesome-To
 
 --------------------
 ### Community Picks
-Is there so many options you have developed choice paralyis? Here is the community favorites.
+Is there so many options you have developed choice paralysis? Here is the community favorites.
 
 - The Popularity Contest: [Wristwatch](https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_Extruder_BMG) has taken the community by storm, quickly becoming the most popular standalone extuder. There are remixes for BMG, G2, RIDGA, and IDGA gears, its easy to build, and supports filament cutters and filament sensors for multicolor.
 - The Classic: [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) has been around longer than most of the extruders on the list but its still a popular pick and for good reason. Its lightweight and easy to print and assemble. This design inspired nearly every BMG based extruder on the list and has more remixes than any other design to date. You can even find SLS or aluminum versions. She might be showing her age but its still a solid design.
