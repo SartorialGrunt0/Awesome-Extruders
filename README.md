@@ -52,6 +52,7 @@ These gear kits are available from a variety of vendors. Be aware that many vend
 - [Sherpa Extra Heavy](https://www.printables.com/model/549890-sherpa-extra-heavy-with-nema17-update-2) - Direct drive standalone extruder, variant of Sherpa Heavy using a standard nema17, RIDGA supported.
 - [Sherpa Crew Mini](https://github.com/jrlomas/Sherpa-Crew-Mini) - Direct drive standalone extruder, variant of Sherpa Mini, features two sets of BMG gears. 
 - [Sherpa Zero](https://github.com/jrlomas/Sherpa-Zero) - Direct drive standalone extruder, variant of Sherpa Mini, RIDGA supported.
+- [Sheperd](https://github.com/odbee/shepherd/tree/main?fbclid=IwRlRTSANY_pNleHRuA2FlbQIxMQABHhML2hOx8zadzG2nzILrX3HnMdU5N6_FB9lNbvKDGy4oQdN78GPfmhmRN6_c_aem_9hzl1_RPQ__LE-mjas_uyA) - Direct drive extruder for Archetype Breakneck part cooling duct.
 - [Fz](https://github.com/FZaii/FZ-Extruder) - Direct drive standalone extruder, variant of Sherpa Mini.
 - [Miro](https://github.com/jrlomas/miro-extruder) - Direct drive standalone extruder, features dual-drive gears.
 - [Sailfin](https://github.com/CroXY3D/Sailfin-Extruder) - Direct drive standalone extruder. 
