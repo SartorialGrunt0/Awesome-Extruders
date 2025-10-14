@@ -99,7 +99,8 @@ These extruders use a set of gears that are still readily available but are less
 
 - [RoundAbout](https://github.com/chirpy2605/voron/tree/main/general/RoundAbout) - Direct drive standalone extruder, features a planetary gearbox.
 - [RoundTrip](https://github.com/chirpy2605/voron/tree/main/general/RoundTrip) - Direct drive standalone extruder, features support for multiple gear set types.
-
+- [Lowboi Mk4](https://github.com/Shaunuss/Lowboi-Mk4) - Direct drive standalone extruder, features a worm gear design with Creality K1 gears.
+- [Waterweel](https://github.com/abigexplosion/WATERHWEEL-EXTRUDER/tree/main) - Direct drive standalone extruder, features a worm gear design with Bambu X/P series gears.
 --------------------
 
 ### Legacy Extruders
@@ -111,9 +112,7 @@ Legacy extruders use gear designs that are no longer readily available for purch
 - [Stargazer](https://www.printables.com/model/245121-stargazer-v1) - Direct drive standalone extruder, features planetary gearbox. 
 - [Double Folded Ascender](https://github.com/Annex-Engineering/Folded_Ascender-Extruder) - Direct drive standalone extruder, features a worm gear design.
 - [NF-Cannon](https://github.com/Mellow-3D/NF-Cannon) - Direct drive standalone extruder, features a worm gear design.
-- [Lowboi Mk4](https://github.com/Shaunuss/Lowboi-Mk4) - Direct drive standalone extruder, features a worm gear design.
-- [Waterwheel](https://github.com/abigexplosion/WATERHWEEL-EXTRUDER/tree/main) - Direct drive standalone extruder, features a worm gear design.
-- [Zesty-Nimble V3](https://zestytechnology.readthedocs.io/en/latest/nimble/nimblev3/index.html) - Worm gear extruder.
+- [Zesty-Nimble V3](https://zestytechnology.readthedocs.io/en/latest/nimble/nimblev3/index.html) - Worm gear extruderz
 - [Titania](https://www.printables.com/model/729823-titania-extruder-with-e3d-titan-gears-made-in-sher) - Direct drive standalone extruder, variant of Sherpa Mini, features E3D titan gears.
 - [Cyclops](https://github.com/D3vil-Design/Cyclops-Extruder) - Direct drive extruder for the Creality K1 toolhead, superceded by [DXC extruder](https://www.phaetus.com/en-us/products/dxc-extruder).
 
