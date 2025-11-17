@@ -1,6 +1,6 @@
 # Awesome-Extruders
 
-A 3D printer extruder is a filament feeding mechanism used in many fused deposition modeling (FDM) 3D printers. 
+A 3D printer extruder is a filament feeding mechanism used in all fused deposition modeling (FDM) 3D printers. 
 
 This is a list of publicaly available extruder designs which can be built using a combination of 3d printed parts and a purchasable gear kit. Sections are broken up by gear type.
 
@@ -75,7 +75,7 @@ These gear kits are available from a variety of vendors. Be aware that many vend
 - [Large Gear Clockwork2](https://github.com/nhchiu/VoronMods/tree/main/Extruders/Large_Gear_Clockwork2) - Direct drive extruder for the Voron Stealthburner toolhead.
 - [ProtoXtruder](https://github.com/nhchiu/VoronMods/tree/main/Extruders/ProtoXtruder) - Direct drive standalone extruder, features Sherpa Mini mounting.
 - [ProtoXtruder 2.0](https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0) - Direct drive standalone extruder, variant of ProtoXtruder for HGX-lite 2.0 gears.
-- [StealthProtoXtruder 2.0](https://www.printables.com/model/1372682-stealthprotoxtruder-20) - Direct drive standalone extruder, variant of ProtoXtruder 2.0, features HGX-lite 2.0 gears, minor improvments, and a low-poly design.
+- [StealthProtoXtruder 2.0](https://www.printables.com/model/1372682-stealthprotoxtruder-20) - Direct drive standalone extruder, variant of ProtoXtruder 2.0, features HGX-lite 2.0 gears, minor improvements and a low-poly design.
 - [Papilio/Papilio Lite](https://github.com/kevinakasam/Papilio-Belt-Extruder) - Direct drive standalone extruder, features using belts rather than gears to push filament.
 - [Tsunami](https://www.printables.com/model/1175316-beta-tsunami-extruder) - Direct drive standalone extruder, features dual drive gears.
 
