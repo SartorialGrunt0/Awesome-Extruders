@@ -16,6 +16,7 @@ Looking for a toolhead to go with your extruder of choice? Check out [Awesome-To
 - [Galileo 2 Extruders](#galileo-2-extruders)
 - [Other Extruders](#other-extruders)
 - [Legacy Extruders](#legacy-extruders)
+- [Pre-Assembled Extruders](pre-assembled-standalone-extruders)
 
 --------------------
 ### Community Picks
@@ -24,8 +25,7 @@ Is there so many options you have developed choice paralysis? Here is the commun
 - The Popularity Contest: [Wristwatch](https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_Extruder_BMG) has taken the community by storm, quickly becoming the most popular standalone extuder. There are remixes for BMG, G2, RIDGA, and IDGA gears, its easy to build, and supports filament cutters and filament sensors for multicolor. WWG2 even has a full build manual!
 - The Classic: [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) has been around longer than most of the extruders on the list but its still a popular pick and for good reason. Its lightweight and easy to print and assemble. This design inspired nearly every BMG based extruder on the list and has more remixes than any other design to date. You can even find injection mold, SLS, and aluminum versions. She might be showing her age but its still a solid design. It also features a full build manual!
 - The Bargain Mart: [ProtoXtruder](https://github.com/nhchiu/VoronMods/tree/main/Extruders/ProtoXtruder), designed by nhchiu, is part of a family of extruders using the HGX-lite gears. These large gears can be found for $8-15 and include every non-printed part needed. Between the low price, the large gears improving layer consistency, and the extruder using the same mounting pattern as Sherpa-Mini, its an awesome budget extruder.
-
-
+- The Lazy Man: [Orbiter 2.5](https://www.orbiterprojects.com/orbiter-v2-5/) is one of the most popular extruders for those who don't trust their extrusion to the capability of their hands and printer. The design is tried and tested, the plantetary gearbox provides reliable extrusion, and the mounting pattern is found on most every toolhead. 
 
 --------------------
 ### BMG Extruders
@@ -92,6 +92,17 @@ These gear kits are available from a variety of vendors. Be aware that many vend
 - [Wristwatch G2](https://github.com/tetsu97/WristWatch-G2-Extruder) - Direct drive standalone extruder.
 - [Escapement](https://github.com/Armchair-Heavy-Industries/Escapement) - Direct drive standalone extruder.
 - [Micro-cosm](https://github.com/Okanoa/micro-cosm) - Direct drive standalone extruder.
+
+--------------------
+
+### Pre-Assembled Standalone Extruders
+
+These are some of the most popular standalone extruders that can be purchased fully assembled and ready to mount. Many of the community extruders are based on these designs.
+
+- [Orbiter 2](https://www.orbiterprojects.com/orbiter-v2-0/) - Direct drive standalone extruder, features a planetary gearbox, superceded by Orbiter 2.5.
+- [Orbiter 2.5](https://www.orbiterprojects.com/orbiter-v2-5/) - Direct drive standalone extruder, features a planetary gearbox.
+- [BMG Extruder](https://www.bondtech.se/product/bmg-extruder/) - Direct drive standalone extruder.
+- [LGX Lite Extruder](https://www.bondtech.se/product/lgx-lite-v2-large-gears-extruder-no-motor/) - Direct drive standalone extruder, features large drive gears.
 
 --------------------
 
