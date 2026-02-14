@@ -14,9 +14,9 @@ Looking for a toolhead to go with your extruder of choice? Check out [Awesome-To
 - [BMG Extruders](#bmg-extruders)
 - [HGX-lite Extruders](#hgx-lite-extruders)
 - [Galileo 2 Extruders](#galileo-2-extruders)
+- [Pre-Assembled Extruders](#pre-assembled-standalone-extruders)
 - [Other Extruders](#other-extruders)
 - [Legacy Extruders](#legacy-extruders)
-- [Pre-Assembled Extruders](pre-assembled-standalone-extruders)
 
 --------------------
 ### Community Picks
